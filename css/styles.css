@@ -10070,9 +10070,9 @@ p.lead {
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
   #sideNav .navbar-brand .img-profile-icon {
-    max-width: 0.5rem;
-    max-height: 0.5rem;
-    border: 0.05rem solid rgba(255, 255, 255, 0.2);
+    max-width: 3.5rem;
+    max-height: 3.5rem;
+    border: 0.1rem solid rgba(255, 255, 255, 0.2);
   }
   #sideNav .navbar-collapse {
     display: flex;
