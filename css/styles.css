@@ -6298,7 +6298,7 @@ button.bg-dark:focus {
 }
 
 .rounded-pill {
-  border-radius: 50rem !important;
+  border-radius: 3rem !important;
 }
 
 .rounded-0 {
@@ -10092,6 +10092,7 @@ p.lead {
     display: block;
   }
 }
+
 .social-icons .social-icon {
   display: inline-flex;
   align-items: center;
@@ -10113,6 +10114,14 @@ p.lead {
 
 .dev-icons {
   font-size: 3rem;
+}
+.interest-img {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 350cm;
+  border-radius: 100%;
+  margin-right: 1.5rem;
 }
 
 section.resume-section {
